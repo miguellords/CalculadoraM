@@ -201,5 +201,3 @@ vent = crear_ventana()
 
 #Inicio bucle
 vent.mainloop()
-# hola
-# sorprendente
