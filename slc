@@ -1,0 +1,24 @@
+[33mcommit 94856ec754781ef55a05ee81afe331230539b166[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: miguellords <mramirez13@unilasallista.edu.co>
+Date:   Fri Sep 13 18:06:40 2024 -0500
+
+    logré solucionar el problema de vinculación git
+
+[33mcommit 827fdf2081da42d4e93af70b644373e7f689f8ec[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 59b4a50 9691fab
+Author: miguellords <mramirez13@unilasallista.edu.co>
+Date:   Fri Sep 13 17:35:12 2024 -0500
+
+    Descripción de los cambios
+
+[33mcommit 59b4a5016824e74e36dfd325091c96afdab37070[m[33m ([m[1;32mmaster[m[33m)[m
+Author: miguellords <mramirez13@unilasallista.edu.co>
+Date:   Fri Sep 13 17:18:11 2024 -0500
+
+    Primer commit
+
+[33mcommit 9691fab718197ca63581df946115f6e4c0df3584[m
+Author: miguellords <mramirez13@unilasallista.edu.co>
+Date:   Fri Sep 13 17:16:13 2024 -0500
+
+    Initial commit
